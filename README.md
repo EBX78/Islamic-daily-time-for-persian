@@ -1,6 +1,6 @@
 ## Islamic-daily-time-in-farsi
 Display religious times and solar dates
-|------------------------------|
+|--------------------|---------|
 |Morning call        | 02:26   |
 |Sunrise             | 04:14   |
 |Noon call           | 11:33   |
@@ -10,4 +10,4 @@ Display religious times and solar dates
 |Day                 | 29      |
 |Month               | khordad |
 |Year                | 1402    |
-|------------------------------|
+|--------------------|---------|
